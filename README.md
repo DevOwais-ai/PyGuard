@@ -54,12 +54,10 @@ course to demonstrate the practical implementation of security concepts.
 ## Screenshots
 
 ### Running PyGuard with Administrator Privileges
-![Admin Command Prompt]
-<img width="551" height="229" alt="admin_cmd_running" src="https://github.com/user-attachments/assets/315928f5-b2fe-44d0-9fea-6d2372466279" />
+![Admin Command Prompt](screenshots/admin_cmd_running.png)
 
 
 ### Security Log Output
-![Security Log]
-<img width="595" height="445" alt="security_log_output" src="https://github.com/user-attachments/assets/326a9913-0960-4404-85bb-23cd37683bc6" />
+![Security Log](screenshots/security_log_output.png)
 
 > Note: IP addresses in logs are masked for security and privacy.
