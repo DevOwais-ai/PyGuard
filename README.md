@@ -39,7 +39,7 @@ PyGuard/
 - VS Code
 
 ---
-```md
+
 ## ▶️ How to Run
 ```bash
 python main.py
